@@ -5,7 +5,7 @@ GCP Secret Management Demo Tool
 
 ### Storage
 
-Registered values are encrypted using Cloud KMS in Cloud Datastor and saved.
+Registered values are encrypted using Cloud KMS in Cloud Datastore and saved.
 
 For example, when key = sample, value = hoge is registered.
 
